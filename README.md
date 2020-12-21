@@ -1,6 +1,6 @@
 Final project made by using pygame module
-
-
+There is no ground in game as you see  - I put 
+the AIU's photo 
 ![Start](https://user-images.githubusercontent.com/72540435/102603526-22f99000-414d-11eb-8a5d-c2f53e574dc9.PNG)
 
 ![Play](https://user-images.githubusercontent.com/72540435/102603645-4cb2b700-414d-11eb-9f61-e62a23d8ea3b.PNG)
