@@ -1,5 +1,5 @@
 Final project made by using pygame module
-Also I used sprite class
+
 
 ![Start](https://user-images.githubusercontent.com/72540435/102603526-22f99000-414d-11eb-8a5d-c2f53e574dc9.PNG)
 
